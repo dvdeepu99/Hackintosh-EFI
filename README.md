@@ -24,7 +24,7 @@ NOTES:
    https://shorturl.at/qHIST
    
    Without this modification boot process gets halted at 'ioconsoleusers gioscreenlockstate 3...'
-    If facing any issues change it back
+    If facing any issues change it back (I used VScode)
     
 -)  For audio, you may replace the Voodoo kext to AppleALC but this will break the mic inputs from 3.5mm jack. AppleALC will     give better and louder sound but it comes at the cost of breaking 3.5mm mic input. Also add alcid=1 in boot-args if using     AppleALC.
 
