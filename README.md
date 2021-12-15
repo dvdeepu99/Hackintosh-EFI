@@ -32,6 +32,8 @@ NOTES:
 
 -) Fix for Disocrd/CSGO/Adobe apps: https://github.com/Pavo-IM/amd_hackintosh_discord_fix
 
+-) iMessage works perfectly but Facetime doesn't; can be fixed by tuning the SMBIOS.
+
 Screenshots: https://imgur.com/a/f6y2EOh
 
 I'll leave a few links that helped me:
