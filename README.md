@@ -19,12 +19,11 @@ NOTES:
 -)  replace/remove 'nvda_drv_vrl=1' and 'shikigva=40' and instead use 'nv_disable=1' until you set up Web drivers, after         which you may add these 2 boot arguments and reboot macOS. 
 
 -)  Kernel patch 32 'replace' value has been changed from default, refer to the following links:  
-    https://i.imgur.com/GBJh2py.png  
-     
-    
-    https://shorturl.at/qHIST
-    
-    Without this modification boot process gets halted at 'ioconsoleusers gioscreenlockstate 3...'
+    https://i.imgur.com/GBJh2py.png     
+   
+   https://shorturl.at/qHIST
+   
+   Without this modification boot process gets halted at 'ioconsoleusers gioscreenlockstate 3...'
     If facing any issues change it back
     
 -)  For audio, you may replace the Voodoo kext to AppleALC but this will break the mic inputs from 3.5mm jack. AppleALC will     give better and louder sound but it comes at the cost of breaking 3.5mm mic input. Also add alcid=1 in boot-args if using     AppleALC.
