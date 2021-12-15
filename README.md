@@ -1,4 +1,4 @@
-#Ryzentosh // Hackintosh EFI (macOS High Sierra 10.13.6 (17G14042; initially 17G66)) for the setup:
+#Ryzentosh // OpenCore Hackintosh EFI (macOS High Sierra 10.13.6 (17G14042; initially 17G66)) for the setup:
 
 CPU: AMD Ryzen 5 3500
 
