@@ -21,7 +21,7 @@ NOTES:
 -)  Kernel patch 32 'replace' value has been changed from default, refer to the following links:  
     https://i.imgur.com/GBJh2py.png     
    
-   https://shorturl.at/qHIST
+   https://forum.amd-osx.com/index.php?threads/solved-stuck-at-ioconsoleusers-gioscreenlockstate-3-hs-0-bs-0-now-0-sm-0x0-with-gt710-gk208.1043/page-2
    
    Without this modification boot process gets halted at 'ioconsoleusers gioscreenlockstate 3...'
     If facing any issues change it back (I used VScode)
