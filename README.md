@@ -1,15 +1,9 @@
 #Ryzentosh // Hackintosh EFI (macOS High Sierra 10.13.6 (17G14042; initially 17G66)) for the setup:
-
 CPU: AMD Ryzen 5 3500
-
 GPU: NVIDIA GeForce GTX 970 4GB
-
 Motherboard: ASUS EX-A320M-GAMING // Asus EX A320m Gaming (just leaving tags so people would find it easier from google)
-
 Motherboard BIOS Version: 
-
 Storage: 500GB NVMe (Windows installed) // 120GB SATA SSD (Used for macOS) // 500GB Seagate Barracuda HDD // 1TB Seagate HDD 
-
 RAM: 16GB XPG ADATA 3200Mhz (8x2) (DOCP Enabled)
 
 
@@ -34,7 +28,9 @@ Screenshots: https://imgur.com/a/f6y2EOh
 
 I'll leave a few links that helped me:
 https://dortania.github.io/OpenCore-Install-Guide/
+
 https://www.youtube.com/watch?v=XkxsbhRH77s
+
 https://www.youtube.com/watch?v=RDQIO25HLHk
 
 
