@@ -30,7 +30,7 @@ NOTES:
 
 -) Install Nvidia Web Drivers from: https://github.com/Benjamin-Dobell/nvidia-update
 
--) Fix for Disocrd/CSGO/Adobe apps: https://github.com/Pavo-IM/amd_hackintosh_discord_fix
+-) Fix for Discord/CSGO/Adobe apps: https://github.com/Pavo-IM/amd_hackintosh_discord_fix
 
 -) iMessage works perfectly but Facetime doesn't; can be fixed easily by tuning the SMBIOS.
 
